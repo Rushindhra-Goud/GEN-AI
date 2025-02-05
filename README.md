@@ -1,1 +1,11 @@
 # GEN-AI
+<H1>WEEK 1:
+<BR>
+<H1>WEEK 2:
+<BR>
+<H1>WEEK 3:
+<BR>
+<H1>WEEK 4:
+<BR>
+<H1>WEEK 5:
+<BR>
