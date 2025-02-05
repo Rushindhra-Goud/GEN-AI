@@ -5,7 +5,7 @@
 <BR>
 <H1>WEEK 3:https://github.com/Rushindhra-Goud/GEN-AI/blob/main/GEN_AI%2CASSN_03.ipynb
 <BR>
-<H1>WEEK 4:
+<H1>WEEK 4:https://github.com/Rushindhra-Goud/GEN-AI/blob/main/GEN_LAB_04.ipynb
 <BR>
 <H1>WEEK 5:https://github.com/Rushindhra-Goud/GEN-AI/blob/main/GEN_LAB_05.ipynb
 <BR>
