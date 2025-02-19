@@ -9,5 +9,5 @@
 <BR>
 <H1>WEEK 5:https://github.com/Rushindhra-Goud/GEN-AI/blob/main/GEN_LAB_05.ipynb
 <BR>
-<H1>WEEK 6:
+<H1>WEEK 6:https://github.com/Rushindhra-Goud/GEN-AI/blob/main/GEN_AI_LAB_6.ipynb
 <BR>
