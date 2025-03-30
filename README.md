@@ -11,3 +11,7 @@
 <BR>
 <H1>WEEK 6:https://github.com/Rushindhra-Goud/GEN-AI/blob/main/GEN_AI_LAB_6.ipynb
 <BR>
+<H1>https://github.com/Rushindhra-Goud/GEN-AI/blob/main/GEN_AI__LAB_7.ipynb
+<BR>
+
+
